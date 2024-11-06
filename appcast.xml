@@ -3,12 +3,12 @@
     <channel>
         <title>Interviews Hero</title>
         <item>
-            <title>1.1.2</title>
-            <pubDate>Mon, 04 Nov 2024 21:26:32 -0600</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <title>1.1.3</title>
+            <pubDate>Tue, 05 Nov 2024 22:29:25 -0600</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yhfy2006/interviews-hero-release/releases/download/prod-v1.1.2/InterviewsHero.dmg" length="112012990" type="application/octet-stream" sparkle:edSignature="hceFhYRyWJRAfkACxzMtyTCU3TJkhtbSyfUxIY3FJGC9MT2PRIjQhdBjHxGZvuuhGmIbQutwjUUFkDhgzJQMDw=="/>
+            <enclosure url="https://github.com/yhfy2006/interviews-hero-release/releases/download/prod-v1.1.3/InterviewsHero.dmg" length="112009030" type="application/octet-stream" sparkle:edSignature="cVJJt80t+nwh9jGogmjP8/wS/eDnVGb2kt1rMkqPv4Y0YuVhmfVBs1VzkqkbG/s6rDVbxMSbqxAWmjaqfK7TCw=="/>
         </item>
     </channel>
 </rss>
